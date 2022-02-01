@@ -1,2 +1,2 @@
-# Minita.ol
+# MiniTalk
 Telegram clone
